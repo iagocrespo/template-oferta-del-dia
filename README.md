@@ -14,19 +14,27 @@ Playing with React, Firebase and friends.
 
 ### How to install Node
 
-Since we are using [fish shell](https://fishshell.com/), we need to install [FNM](https://github.com/jorgebucaran/fnm) instead of [NVM](https://github.com/creationix/nvm) (bash)
+Since we are using [fish shell](https://fishshell.com/), we need to:
+
+1. Install [NVM](https://github.com/creationix/nvm)
 
 ```
-❯ fisher add jorgebucaran/fnm
+❯ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
 ```
 
-Install [Node](https://nodejs.org/en/) LTS from FNM
+2. Install [fish-nvm](https://github.com/FabioAntunes/fish-nvm)
 
 ```
-❯ fnm ls
-❯ fnm lts
+❯ fisher add FabioAntunes/fish-nvm
+```
+
+3. Install [Node 8](https://nodejs.org/en/) with NVM
+
+```
+❯ nvm install 8
 ❯ node --version
-v10.13.0
+v8.12.0
+❯ nvm alias default 8.12.0
 ```
 
 ### How can I sync the project at GitHub
