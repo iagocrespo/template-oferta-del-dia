@@ -2,7 +2,7 @@
 
 Playing with React, Firebase and friends.
 
-## Clone, install... GO 🚀🤖👾
+## 👾🤖🚀 Clone, install... GO 🚀🤖👾
 
 ```
 ❯ git clone git@github.com:davidgchaves/template.git oferta-del-dia
