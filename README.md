@@ -5,7 +5,7 @@ Playing with React, Firebase and friends.
 ## Clone, install... GO 🚀🤖👾
 
 ```
-❯ git clone git@github.com:davidgchaves/template.git
+❯ git clone git@github.com:davidgchaves/template.git oferta-del-dia
 ❯ cd oferta-del-dia
 ❯ npm install
 ```
