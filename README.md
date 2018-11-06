@@ -37,7 +37,7 @@ v8.12.0
 ❯ nvm alias default 8.12.0
 ```
 
-### How can I sync the project at GitHub
+### How can I sync the project with a remote GitHub repository
 
 ```
 ❯ git remote add origin git@github.com:davidgchaves/oferta-del-dia.git
