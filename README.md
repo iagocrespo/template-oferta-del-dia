@@ -46,7 +46,6 @@ v8.12.0
 
 ### More tools
 
-Install:
-
 - [React Developer Tools](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) extension for Firefox.
 - [CMDer](http://cmder.net/): Command Line Emulator for Windows.
+- [Create React App 2](https://github.com/facebook/create-react-app)
