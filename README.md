@@ -5,7 +5,7 @@ Playing with React, Firebase and friends.
 ## 👾🤖🚀 Clone, install... GO 🚀🤖👾
 
 ```
-❯ git clone git@github.com:davidgchaves/template.git oferta-del-dia
+❯ git clone git@github.com:<your_github_user>/template.git oferta-del-dia
 ❯ cd oferta-del-dia
 ❯ npm install
 ```
@@ -35,13 +35,6 @@ Since we are using [fish shell](https://fishshell.com/), we need to:
 ❯ node --version
 v8.12.0
 ❯ nvm alias default 8.12.0
-```
-
-### How can I sync the project with a remote GitHub repository
-
-```
-❯ git remote add origin git@github.com:davidgchaves/oferta-del-dia.git
-❯ git push -u origin master
 ```
 
 ### More tools
