@@ -2,11 +2,25 @@
 
 Playing with React, Firebase and friends.
 
-## 👾🤖🚀 Clone, install... GO 🚀🤖👾
+## 👾🤖🚀 Fork, clone, install... GO 🚀🤖👾
+
+1. Fork the repository
+
+2. Clone your fork
 
 ```
 ❯ git clone git@github.com:<your_github_user>/template.git oferta-del-dia
+```
+
+3. Enter folder
+
+```
 ❯ cd oferta-del-dia
+```
+
+4. Install
+
+```
 ❯ npm install
 ```
 
