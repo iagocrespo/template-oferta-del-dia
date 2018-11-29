@@ -1,4 +1,4 @@
-# Oferta del dia
+# Template Oferta del dia
 
 Playing with React, Firebase and friends.
 
@@ -9,13 +9,13 @@ Playing with React, Firebase and friends.
 2. Clone your fork
 
 ```
-❯ git clone git@github.com:<your_github_user>/template.git oferta-del-dia
+❯ git clone git@github.com:<your_github_user>/template-oferta-del-dia.git
 ```
 
 3. Enter folder
 
 ```
-❯ cd oferta-del-dia
+❯ cd template-oferta-del-dia
 ```
 
 4. Install
